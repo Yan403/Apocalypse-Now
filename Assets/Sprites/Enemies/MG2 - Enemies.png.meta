@@ -1,0 +1,2498 @@
+fileFormatVersion: 2
+guid: e3e8300e9961d2c4ba38bc7a6ee293bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6460588642764740742
+    second: MG2 - Enemies_0
+  - first:
+      213: -1486111079588845128
+    second: MG2 - Enemies_1
+  - first:
+      213: -2545629465629946668
+    second: MG2 - Enemies_2
+  - first:
+      213: 5196748736495650985
+    second: MG2 - Enemies_3
+  - first:
+      213: 6429058266806163225
+    second: MG2 - Enemies_4
+  - first:
+      213: -7935819621194384342
+    second: MG2 - Enemies_5
+  - first:
+      213: 4342394315741207168
+    second: MG2 - Enemies_6
+  - first:
+      213: -6440780229521300698
+    second: MG2 - Enemies_7
+  - first:
+      213: 3354893230507055830
+    second: MG2 - Enemies_8
+  - first:
+      213: 7769900395865683377
+    second: MG2 - Enemies_9
+  - first:
+      213: -4573799309792085047
+    second: MG2 - Enemies_10
+  - first:
+      213: 4099521997670279186
+    second: MG2 - Enemies_11
+  - first:
+      213: 7697643994635199833
+    second: MG2 - Enemies_12
+  - first:
+      213: -9031776510955920156
+    second: MG2 - Enemies_13
+  - first:
+      213: 3866001361727496721
+    second: MG2 - Enemies_14
+  - first:
+      213: 7806529632670307348
+    second: MG2 - Enemies_15
+  - first:
+      213: -8631931338879051504
+    second: MG2 - Enemies_16
+  - first:
+      213: -2303462346731315990
+    second: MG2 - Enemies_17
+  - first:
+      213: -3038120805023653329
+    second: MG2 - Enemies_18
+  - first:
+      213: 2813458529228431021
+    second: MG2 - Enemies_19
+  - first:
+      213: 6827361676482962177
+    second: MG2 - Enemies_20
+  - first:
+      213: -7824418045163147735
+    second: MG2 - Enemies_21
+  - first:
+      213: 8882217067099970270
+    second: MG2 - Enemies_22
+  - first:
+      213: -3513457522333398363
+    second: MG2 - Enemies_23
+  - first:
+      213: -581777790718716052
+    second: MG2 - Enemies_24
+  - first:
+      213: -5832088369203188309
+    second: MG2 - Enemies_25
+  - first:
+      213: 4467470312002615717
+    second: MG2 - Enemies_26
+  - first:
+      213: -7986766357774275736
+    second: MG2 - Enemies_27
+  - first:
+      213: 5923546403129033421
+    second: MG2 - Enemies_28
+  - first:
+      213: -7303250390449415777
+    second: MG2 - Enemies_29
+  - first:
+      213: 6897185086066495480
+    second: MG2 - Enemies_30
+  - first:
+      213: -4740071180396403540
+    second: MG2 - Enemies_31
+  - first:
+      213: -877608341777022027
+    second: MG2 - Enemies_32
+  - first:
+      213: 4977502367665414556
+    second: MG2 - Enemies_33
+  - first:
+      213: -5124250825302786218
+    second: MG2 - Enemies_34
+  - first:
+      213: -7610217161056135610
+    second: MG2 - Enemies_35
+  - first:
+      213: -4432822894191321126
+    second: MG2 - Enemies_36
+  - first:
+      213: -3758771570732142504
+    second: MG2 - Enemies_37
+  - first:
+      213: 3446583091589185402
+    second: MG2 - Enemies_38
+  - first:
+      213: 208785362998966505
+    second: MG2 - Enemies_39
+  - first:
+      213: -6657060786045925772
+    second: MG2 - Enemies_40
+  - first:
+      213: -2007694283424522863
+    second: MG2 - Enemies_41
+  - first:
+      213: 1852304277540300724
+    second: MG2 - Enemies_42
+  - first:
+      213: 630874401110892521
+    second: MG2 - Enemies_43
+  - first:
+      213: -3650104074365257917
+    second: MG2 - Enemies_44
+  - first:
+      213: 2302784476896187169
+    second: MG2 - Enemies_45
+  - first:
+      213: -5972606490081527148
+    second: MG2 - Enemies_46
+  - first:
+      213: -7195448580476972736
+    second: MG2 - Enemies_47
+  - first:
+      213: 1312926818624259246
+    second: MG2 - Enemies_48
+  - first:
+      213: -1351558877314678047
+    second: MG2 - Enemies_49
+  - first:
+      213: -820781304522602379
+    second: MG2 - Enemies_50
+  - first:
+      213: 1424527741050377562
+    second: MG2 - Enemies_51
+  - first:
+      213: -6612836332724122981
+    second: MG2 - Enemies_52
+  - first:
+      213: -3953808235597752449
+    second: MG2 - Enemies_53
+  - first:
+      213: -772766541495672159
+    second: MG2 - Enemies_54
+  - first:
+      213: 8065403864301099906
+    second: MG2 - Enemies_55
+  - first:
+      213: 7812726648511247041
+    second: MG2 - Enemies_56
+  - first:
+      213: -1694166237599689871
+    second: MG2 - Enemies_57
+  - first:
+      213: -8021008311122350653
+    second: MG2 - Enemies_58
+  - first:
+      213: -5532536043781701972
+    second: MG2 - Enemies_59
+  - first:
+      213: -205592649838185810
+    second: MG2 - Enemies_60
+  - first:
+      213: 3004762627847128309
+    second: MG2 - Enemies_61
+  - first:
+      213: 1463564877944713294
+    second: MG2 - Enemies_62
+  - first:
+      213: 8689922181494171472
+    second: MG2 - Enemies_63
+  - first:
+      213: -7261667285861897067
+    second: MG2 - Enemies_64
+  - first:
+      213: -136557980209522609
+    second: MG2 - Enemies_65
+  - first:
+      213: -8266327206588977760
+    second: MG2 - Enemies_66
+  - first:
+      213: -78619976651427837
+    second: MG2 - Enemies_67
+  - first:
+      213: -5063061080278527958
+    second: MG2 - Enemies_68
+  - first:
+      213: -5951263554215304792
+    second: MG2 - Enemies_69
+  - first:
+      213: 6959221889918616555
+    second: MG2 - Enemies_70
+  - first:
+      213: -7787194142533142029
+    second: MG2 - Enemies_71
+  - first:
+      213: 3093988841233831254
+    second: MG2 - Enemies_72
+  - first:
+      213: -3818476130538649623
+    second: MG2 - Enemies_73
+  - first:
+      213: -5877733377013996496
+    second: MG2 - Enemies_74
+  - first:
+      213: -3858329637631915345
+    second: MG2 - Enemies_75
+  - first:
+      213: 4671763278316093905
+    second: MG2 - Enemies_76
+  - first:
+      213: -4603355681673207972
+    second: MG2 - Enemies_77
+  - first:
+      213: 7200809630319751135
+    second: MG2 - Enemies_78
+  - first:
+      213: 5232921920787940950
+    second: MG2 - Enemies_79
+  - first:
+      213: -6200583671453156715
+    second: MG2 - Enemies_80
+  - first:
+      213: 2775419550439958832
+    second: MG2 - Enemies_81
+  - first:
+      213: -1102696629666632421
+    second: MG2 - Enemies_82
+  - first:
+      213: 66743087936382254
+    second: MG2 - Enemies_83
+  - first:
+      213: -4759703203850098017
+    second: MG2 - Enemies_84
+  - first:
+      213: 6418871325226102977
+    second: MG2 - Enemies_85
+  - first:
+      213: -3334755982620392456
+    second: MG2 - Enemies_86
+  - first:
+      213: -8434845725308692817
+    second: MG2 - Enemies_87
+  - first:
+      213: -8246285291244337551
+    second: MG2 - Enemies_88
+  - first:
+      213: 2578272354911319210
+    second: MG2 - Enemies_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MG2 - Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 191
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6885ae3142f98a950800000000000000
+      internalID: 6460588642764740742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 190
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9a55cc8d5406be0800000000000000
+      internalID: -1486111079588845128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 190
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc0c530d7b1cacd0800000000000000
+      internalID: -2545629465629946668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 191
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a888c9317f8e1840800000000000000
+      internalID: 5196748736495650985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 190
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91715495e6a983950800000000000000
+      internalID: 6429058266806163225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 190
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c322da91e4ed190800000000000000
+      internalID: -7935819621194384342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 190
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a1e688f98434c30800000000000000
+      internalID: 4342394315741207168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 190
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62326078180cd96a0800000000000000
+      internalID: -6440780229521300698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 191
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da5cbf3e99fe8e20800000000000000
+      internalID: 3354893230507055830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 190
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5bdbb4e3b34db60800000000000000
+      internalID: 7769900395865683377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 190
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb7ae1c2c99680c0800000000000000
+      internalID: -4573799309792085047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 191
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2186904698d64e830800000000000000
+      internalID: 4099521997670279186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 190
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95566a3ed6683da60800000000000000
+      internalID: 7697643994635199833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 190
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e461cd9d1fa8a280800000000000000
+      internalID: -9031776510955920156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 190
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112a1fa61cbc6a530800000000000000
+      internalID: 3866001361727496721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 190
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414dfd3175d565c60800000000000000
+      internalID: 7806529632670307348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 216
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0195d846e28353880800000000000000
+      internalID: -8631931338879051504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 214
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec979d23357800e0800000000000000
+      internalID: -2303462346731315990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 214
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2267d7793d66d5d0800000000000000
+      internalID: -3038120805023653329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 214
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae14f040a96b0720800000000000000
+      internalID: 2813458529228431021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 155
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103e1e79549afbe50800000000000000
+      internalID: 6827361676482962177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 195
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ee4e35e351a6390800000000000000
+      internalID: -7824418045163147735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 195
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edad76ecc59f34b70800000000000000
+      internalID: 8882217067099970270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 155
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aac4ef9ff0bd3fc0800000000000000
+      internalID: -3513457522333398363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 156
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67dff58e2c1de7f0800000000000000
+      internalID: -581777790718716052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 156
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bade4f62782401fa0800000000000000
+      internalID: -5832088369203188309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 156
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9f48f3494affd30800000000000000
+      internalID: 4467470312002615717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 155
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86be2d4305e492190800000000000000
+      internalID: -7986766357774275736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 156
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc28c01c11aa43250800000000000000
+      internalID: 5923546403129033421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 155
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f999783d674a5aa90800000000000000
+      internalID: -7303250390449415777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 156
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff8d1dfa49b7bf50800000000000000
+      internalID: 6897185086066495480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 155
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4e76a1062e73eb0800000000000000
+      internalID: -4740071180396403540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 156
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b30678ecdb12d3f0800000000000000
+      internalID: -877608341777022027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 156
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91ec5d0804a31540800000000000000
+      internalID: 4977502367665414556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 156
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f33d9160103e8b0800000000000000
+      internalID: -5124250825302786218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 155
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646daab00d3136690800000000000000
+      internalID: -7610217161056135610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 156
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfd18750137b72c0800000000000000
+      internalID: -4432822894191321126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 155
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8507ca6db2926dbc0800000000000000
+      internalID: -3758771570732142504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 156
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f7a0f9f09b4df20800000000000000
+      internalID: 3446583091589185402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 176
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8bad37e21c5e200800000000000000
+      internalID: 208785362998966505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 176
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476cc875c7e5d93a0800000000000000
+      internalID: -6657060786045925772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 157
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d16eabfac3324e0800000000000000
+      internalID: -2007694283424522863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 157
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7e9be2de4b4b910800000000000000
+      internalID: 1852304277540300724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 105
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef1a10ece051c800800000000000000
+      internalID: 630874401110892521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 104
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347b046fea9385dc0800000000000000
+      internalID: -3650104074365257917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 104
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1235ea3f74225ff10800000000000000
+      internalID: 2302784476896187169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 105
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a7f7f9a0a0d1da0800000000000000
+      internalID: -5972606490081527148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 104
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041d411a3a1a42c90800000000000000
+      internalID: -7195448580476972736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 104
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4ce204cf3783210800000000000000
+      internalID: 1312926818624259246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 104
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e202a8ac5c4e3de0800000000000000
+      internalID: -1351558877314678047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 104
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57806a190cffb94f0800000000000000
+      internalID: -820781304522602379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 97
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a555ff9de60f4c310800000000000000
+      internalID: 1424527741050377562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 97
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a8e26446c7a34a0800000000000000
+      internalID: -6612836332724122981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 97
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f779e2f9b504129c0800000000000000
+      internalID: -3953808235597752449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 97
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2e7dfbce49645f0800000000000000
+      internalID: -772766541495672159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 97
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bdabd05121eef60800000000000000
+      internalID: 8065403864301099906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 97
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2bdb34e716c6c60800000000000000
+      internalID: 7812726648511247041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 97
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173196178cc1d78e0800000000000000
+      internalID: -1694166237599689871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 97
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cda81b2077afa090800000000000000
+      internalID: -8021008311122350653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 97
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caeb853e7cb7833b0800000000000000
+      internalID: -5532536043781701972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 97
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2b6f10396952df0800000000000000
+      internalID: -205592649838185810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 97
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4823ba0bf03b920800000000000000
+      internalID: 3004762627847128309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 97
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40f1af8080af4410800000000000000
+      internalID: 1463564877944713294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 97
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0576fb1de2ec89870800000000000000
+      internalID: 8689922181494171472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 97
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c6025d310693b90800000000000000
+      internalID: -7261667285861897067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 69
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48dd529d39da1ef0800000000000000
+      internalID: -136557980209522609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 70
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aded16d33b184d80800000000000000
+      internalID: -8266327206588977760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 70
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300317b3c8fa8eef0800000000000000
+      internalID: -78619976651427837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 70
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2094e1d5c46cb9b0800000000000000
+      internalID: -5063061080278527958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 69
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1a44e145dd86da0800000000000000
+      internalID: -5951263554215304792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 70
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3c8b5ff6f149060800000000000000
+      internalID: 6959221889918616555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 69
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f93f498f245ee390800000000000000
+      internalID: -7787194142533142029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 70
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655d3cc557e00fa20800000000000000
+      internalID: 3093988841233831254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 70
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e78fefb03c020bc0800000000000000
+      internalID: -3818476130538649623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 69
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034af9a92a81e6ea0800000000000000
+      internalID: -5877733377013996496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 69
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa869a03a5747ac0800000000000000
+      internalID: -3858329637631915345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 69
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1ceb613ff65d040800000000000000
+      internalID: 4671763278316093905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f971ba5689d10c0800000000000000
+      internalID: -4603355681673207972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 69
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfab6e053a6ee360800000000000000
+      internalID: 7200809630319751135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6568be103c21f9840800000000000000
+      internalID: 5232921920787940950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a72feb00a13f9a0800000000000000
+      internalID: -6200583671453156715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039e5a65065448620800000000000000
+      internalID: 2775419550439958832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d23b5f14f62b0f0800000000000000
+      internalID: -1102696629666632421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2529af1c7e1de000800000000000000
+      internalID: 66743087936382254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 53
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ae932772322fdb0800000000000000
+      internalID: -4759703203850098017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 53
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0fa0f2679641950800000000000000
+      internalID: 6418871325226102977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 54
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f38d432a1198b1d0800000000000000
+      internalID: -3334755982620392456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 54
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6d0c7a08861fa80800000000000000
+      internalID: -8434845725308692817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1764ad2e73f4f8d80800000000000000
+      internalID: -8246285291244337551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 50
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4f2b8eb0dd7c320800000000000000
+      internalID: 2578272354911319210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5a6d66d00bbae744788794b3c31f8421
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MG2 - Enemies_0: 6460588642764740742
+      MG2 - Enemies_1: -1486111079588845128
+      MG2 - Enemies_10: -4573799309792085047
+      MG2 - Enemies_11: 4099521997670279186
+      MG2 - Enemies_12: 7697643994635199833
+      MG2 - Enemies_13: -9031776510955920156
+      MG2 - Enemies_14: 3866001361727496721
+      MG2 - Enemies_15: 7806529632670307348
+      MG2 - Enemies_16: -8631931338879051504
+      MG2 - Enemies_17: -2303462346731315990
+      MG2 - Enemies_18: -3038120805023653329
+      MG2 - Enemies_19: 2813458529228431021
+      MG2 - Enemies_2: -2545629465629946668
+      MG2 - Enemies_20: 6827361676482962177
+      MG2 - Enemies_21: -7824418045163147735
+      MG2 - Enemies_22: 8882217067099970270
+      MG2 - Enemies_23: -3513457522333398363
+      MG2 - Enemies_24: -581777790718716052
+      MG2 - Enemies_25: -5832088369203188309
+      MG2 - Enemies_26: 4467470312002615717
+      MG2 - Enemies_27: -7986766357774275736
+      MG2 - Enemies_28: 5923546403129033421
+      MG2 - Enemies_29: -7303250390449415777
+      MG2 - Enemies_3: 5196748736495650985
+      MG2 - Enemies_30: 6897185086066495480
+      MG2 - Enemies_31: -4740071180396403540
+      MG2 - Enemies_32: -877608341777022027
+      MG2 - Enemies_33: 4977502367665414556
+      MG2 - Enemies_34: -5124250825302786218
+      MG2 - Enemies_35: -7610217161056135610
+      MG2 - Enemies_36: -4432822894191321126
+      MG2 - Enemies_37: -3758771570732142504
+      MG2 - Enemies_38: 3446583091589185402
+      MG2 - Enemies_39: 208785362998966505
+      MG2 - Enemies_4: 6429058266806163225
+      MG2 - Enemies_40: -6657060786045925772
+      MG2 - Enemies_41: -2007694283424522863
+      MG2 - Enemies_42: 1852304277540300724
+      MG2 - Enemies_43: 630874401110892521
+      MG2 - Enemies_44: -3650104074365257917
+      MG2 - Enemies_45: 2302784476896187169
+      MG2 - Enemies_46: -5972606490081527148
+      MG2 - Enemies_47: -7195448580476972736
+      MG2 - Enemies_48: 1312926818624259246
+      MG2 - Enemies_49: -1351558877314678047
+      MG2 - Enemies_5: -7935819621194384342
+      MG2 - Enemies_50: -820781304522602379
+      MG2 - Enemies_51: 1424527741050377562
+      MG2 - Enemies_52: -6612836332724122981
+      MG2 - Enemies_53: -3953808235597752449
+      MG2 - Enemies_54: -772766541495672159
+      MG2 - Enemies_55: 8065403864301099906
+      MG2 - Enemies_56: 7812726648511247041
+      MG2 - Enemies_57: -1694166237599689871
+      MG2 - Enemies_58: -8021008311122350653
+      MG2 - Enemies_59: -5532536043781701972
+      MG2 - Enemies_6: 4342394315741207168
+      MG2 - Enemies_60: -205592649838185810
+      MG2 - Enemies_61: 3004762627847128309
+      MG2 - Enemies_62: 1463564877944713294
+      MG2 - Enemies_63: 8689922181494171472
+      MG2 - Enemies_64: -7261667285861897067
+      MG2 - Enemies_65: -136557980209522609
+      MG2 - Enemies_66: -8266327206588977760
+      MG2 - Enemies_67: -78619976651427837
+      MG2 - Enemies_68: -5063061080278527958
+      MG2 - Enemies_69: -5951263554215304792
+      MG2 - Enemies_7: -6440780229521300698
+      MG2 - Enemies_70: 6959221889918616555
+      MG2 - Enemies_71: -7787194142533142029
+      MG2 - Enemies_72: 3093988841233831254
+      MG2 - Enemies_73: -3818476130538649623
+      MG2 - Enemies_74: -5877733377013996496
+      MG2 - Enemies_75: -3858329637631915345
+      MG2 - Enemies_76: 4671763278316093905
+      MG2 - Enemies_77: -4603355681673207972
+      MG2 - Enemies_78: 7200809630319751135
+      MG2 - Enemies_79: 5232921920787940950
+      MG2 - Enemies_8: 3354893230507055830
+      MG2 - Enemies_80: -6200583671453156715
+      MG2 - Enemies_81: 2775419550439958832
+      MG2 - Enemies_82: -1102696629666632421
+      MG2 - Enemies_83: 66743087936382254
+      MG2 - Enemies_84: -4759703203850098017
+      MG2 - Enemies_85: 6418871325226102977
+      MG2 - Enemies_86: -3334755982620392456
+      MG2 - Enemies_87: -8434845725308692817
+      MG2 - Enemies_88: -8246285291244337551
+      MG2 - Enemies_89: 2578272354911319210
+      MG2 - Enemies_9: 7769900395865683377
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

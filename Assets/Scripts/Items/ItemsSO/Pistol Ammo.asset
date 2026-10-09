@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e53717bdd757054e968e1168c4b276f, type: 3}
+  m_Name: Pistol Ammo
+  m_EditorClassIdentifier: Assembly-CSharp::AmmoSO
+  itemName: Pistol Ammo
+  itemDescription: 
+  icon: {fileID: 2853566114444752598, guid: cdd8ec6669e9bf9468078d30add06d8a, type: 3}
+  isGun: 0
+  passiveEffect: {fileID: 0}
+  isPassiveOnly: 0
+  ammoAmount: 10
+  weaponType: {fileID: 11400000, guid: 78fcc10bef933f44aae5b630c9b3d7da, type: 2}

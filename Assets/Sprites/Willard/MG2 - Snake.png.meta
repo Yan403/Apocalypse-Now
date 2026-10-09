@@ -1,0 +1,4318 @@
+fileFormatVersion: 2
+guid: 85dc6faa378c7c24e984f8ac17c97ed8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1861865317992645385
+    second: MG2 - Snake_0
+  - first:
+      213: 2433709043425759190
+    second: MG2 - Snake_1
+  - first:
+      213: -2465307841647995250
+    second: MG2 - Snake_2
+  - first:
+      213: -1061254035199998085
+    second: MG2 - Snake_3
+  - first:
+      213: -2037349718622354855
+    second: MG2 - Snake_4
+  - first:
+      213: -4916687218672866781
+    second: MG2 - Snake_5
+  - first:
+      213: 7972376157477034666
+    second: MG2 - Snake_6
+  - first:
+      213: -2496179252965988126
+    second: MG2 - Snake_7
+  - first:
+      213: 5292657172855934833
+    second: MG2 - Snake_8
+  - first:
+      213: -6968689677316938496
+    second: MG2 - Snake_9
+  - first:
+      213: 8410626641698230868
+    second: MG2 - Snake_10
+  - first:
+      213: -7105967080931398671
+    second: MG2 - Snake_11
+  - first:
+      213: -6304837110762658294
+    second: MG2 - Snake_12
+  - first:
+      213: 1032574077916902888
+    second: MG2 - Snake_13
+  - first:
+      213: 6769523052801839006
+    second: MG2 - Snake_14
+  - first:
+      213: -8543346930283137047
+    second: MG2 - Snake_15
+  - first:
+      213: 7324056623077948029
+    second: MG2 - Snake_16
+  - first:
+      213: -3397094370602422861
+    second: MG2 - Snake_17
+  - first:
+      213: 6311415501265445946
+    second: MG2 - Snake_18
+  - first:
+      213: 8767553328940505704
+    second: MG2 - Snake_19
+  - first:
+      213: 7284983915052685366
+    second: MG2 - Snake_20
+  - first:
+      213: -8463775283353985614
+    second: MG2 - Snake_21
+  - first:
+      213: 4523265417177147156
+    second: MG2 - Snake_22
+  - first:
+      213: -8541822464376197355
+    second: MG2 - Snake_23
+  - first:
+      213: -3793831305311820320
+    second: MG2 - Snake_24
+  - first:
+      213: -6687830219277158456
+    second: MG2 - Snake_25
+  - first:
+      213: 9116442119929370441
+    second: MG2 - Snake_26
+  - first:
+      213: 6028290742391520192
+    second: MG2 - Snake_27
+  - first:
+      213: 5251689221308459083
+    second: MG2 - Snake_28
+  - first:
+      213: 1590049998573780593
+    second: MG2 - Snake_29
+  - first:
+      213: -6211705374225936283
+    second: MG2 - Snake_30
+  - first:
+      213: -9133255001736310176
+    second: MG2 - Snake_31
+  - first:
+      213: -6751147933194644419
+    second: MG2 - Snake_32
+  - first:
+      213: -7799169950812515591
+    second: MG2 - Snake_33
+  - first:
+      213: -4190599253135929811
+    second: MG2 - Snake_34
+  - first:
+      213: -182783711263870781
+    second: MG2 - Snake_35
+  - first:
+      213: -5903986590677480958
+    second: MG2 - Snake_36
+  - first:
+      213: -2314910308895542212
+    second: MG2 - Snake_37
+  - first:
+      213: -1539329320006825656
+    second: MG2 - Snake_38
+  - first:
+      213: 1068806256929447911
+    second: MG2 - Snake_39
+  - first:
+      213: 8118316370084911443
+    second: MG2 - Snake_40
+  - first:
+      213: 8237287545817507750
+    second: MG2 - Snake_41
+  - first:
+      213: 6053259906358113916
+    second: MG2 - Snake_42
+  - first:
+      213: 1822659664131370455
+    second: MG2 - Snake_43
+  - first:
+      213: -1715427665781446019
+    second: MG2 - Snake_44
+  - first:
+      213: 7312310657845238107
+    second: MG2 - Snake_45
+  - first:
+      213: -8172683679162595130
+    second: MG2 - Snake_46
+  - first:
+      213: 394522187082395707
+    second: MG2 - Snake_47
+  - first:
+      213: 6914874847817975813
+    second: MG2 - Snake_48
+  - first:
+      213: -3026396565050652970
+    second: MG2 - Snake_49
+  - first:
+      213: -9129089350156542133
+    second: MG2 - Snake_50
+  - first:
+      213: -6919115739856424349
+    second: MG2 - Snake_51
+  - first:
+      213: 359187222325635433
+    second: MG2 - Snake_52
+  - first:
+      213: 8257789868076311368
+    second: MG2 - Snake_53
+  - first:
+      213: -7515204286072456940
+    second: MG2 - Snake_54
+  - first:
+      213: -256389827183750870
+    second: MG2 - Snake_55
+  - first:
+      213: 6219219092897887177
+    second: MG2 - Snake_56
+  - first:
+      213: -890461470901680398
+    second: MG2 - Snake_57
+  - first:
+      213: -6494913367620880774
+    second: MG2 - Snake_58
+  - first:
+      213: -7195030895883414978
+    second: MG2 - Snake_59
+  - first:
+      213: 1505662808293060
+    second: MG2 - Snake_60
+  - first:
+      213: 2849553694294041513
+    second: MG2 - Snake_61
+  - first:
+      213: -1534861993214541937
+    second: MG2 - Snake_62
+  - first:
+      213: -4181699528850101849
+    second: MG2 - Snake_63
+  - first:
+      213: 7366931825604770023
+    second: MG2 - Snake_64
+  - first:
+      213: -9136270711878408194
+    second: MG2 - Snake_65
+  - first:
+      213: -2644573262311180455
+    second: MG2 - Snake_66
+  - first:
+      213: 188177008093776052
+    second: MG2 - Snake_67
+  - first:
+      213: 6826173174059453283
+    second: MG2 - Snake_68
+  - first:
+      213: -5952866697047159484
+    second: MG2 - Snake_69
+  - first:
+      213: 6657841652391328700
+    second: MG2 - Snake_70
+  - first:
+      213: -6783497130294463254
+    second: MG2 - Snake_71
+  - first:
+      213: -6600181584511444612
+    second: MG2 - Snake_72
+  - first:
+      213: 4587339118772264211
+    second: MG2 - Snake_73
+  - first:
+      213: 2185371810714773860
+    second: MG2 - Snake_74
+  - first:
+      213: -5016134643855543883
+    second: MG2 - Snake_75
+  - first:
+      213: 4148314343406357502
+    second: MG2 - Snake_76
+  - first:
+      213: -1851008289652801039
+    second: MG2 - Snake_77
+  - first:
+      213: -2171073956049567018
+    second: MG2 - Snake_78
+  - first:
+      213: 5350863927872296070
+    second: MG2 - Snake_79
+  - first:
+      213: 5317183243886173004
+    second: MG2 - Snake_80
+  - first:
+      213: -4432314964737527952
+    second: MG2 - Snake_81
+  - first:
+      213: -7661896516131394159
+    second: MG2 - Snake_82
+  - first:
+      213: 768425436099827031
+    second: MG2 - Snake_83
+  - first:
+      213: -2306950858695641185
+    second: MG2 - Snake_84
+  - first:
+      213: -5990029142173102014
+    second: MG2 - Snake_85
+  - first:
+      213: 859097245712719213
+    second: MG2 - Snake_86
+  - first:
+      213: -982847515414834909
+    second: MG2 - Snake_87
+  - first:
+      213: 6491639697653919818
+    second: MG2 - Snake_88
+  - first:
+      213: 1659526558809030678
+    second: MG2 - Snake_89
+  - first:
+      213: 4440474595486371175
+    second: MG2 - Snake_90
+  - first:
+      213: -8077220469846120247
+    second: MG2 - Snake_91
+  - first:
+      213: -3101023286331517227
+    second: MG2 - Snake_92
+  - first:
+      213: -4442933432452281246
+    second: MG2 - Snake_93
+  - first:
+      213: -1047292499576969180
+    second: MG2 - Snake_94
+  - first:
+      213: -3117019826001584090
+    second: MG2 - Snake_95
+  - first:
+      213: -5524965561384788192
+    second: MG2 - Snake_96
+  - first:
+      213: -8600826524544042462
+    second: MG2 - Snake_97
+  - first:
+      213: -595745638384846133
+    second: MG2 - Snake_98
+  - first:
+      213: 2393129822163529329
+    second: MG2 - Snake_99
+  - first:
+      213: -6685400182373977976
+    second: MG2 - Snake_100
+  - first:
+      213: 8162292769003659240
+    second: MG2 - Snake_101
+  - first:
+      213: 2390555293444084879
+    second: MG2 - Snake_102
+  - first:
+      213: -4329198971378037065
+    second: MG2 - Snake_103
+  - first:
+      213: -352570645676286254
+    second: MG2 - Snake_104
+  - first:
+      213: 5690441250063757051
+    second: MG2 - Snake_105
+  - first:
+      213: -3929209854110157468
+    second: MG2 - Snake_106
+  - first:
+      213: 5439197533541041125
+    second: MG2 - Snake_107
+  - first:
+      213: -5073333449316740669
+    second: MG2 - Snake_108
+  - first:
+      213: 8291416002430490414
+    second: MG2 - Snake_109
+  - first:
+      213: 6537988572943268923
+    second: MG2 - Snake_110
+  - first:
+      213: 4557280366820288109
+    second: MG2 - Snake_111
+  - first:
+      213: 3939420151058584222
+    second: MG2 - Snake_112
+  - first:
+      213: -7543278545485919251
+    second: MG2 - Snake_113
+  - first:
+      213: 6927432661245375984
+    second: MG2 - Snake_114
+  - first:
+      213: -1748832266966337841
+    second: MG2 - Snake_115
+  - first:
+      213: 2172387970633380029
+    second: MG2 - Snake_116
+  - first:
+      213: 1977345830825529595
+    second: MG2 - Snake_117
+  - first:
+      213: -1699985690095468205
+    second: MG2 - Snake_118
+  - first:
+      213: 8649278830491582692
+    second: MG2 - Snake_119
+  - first:
+      213: -3048736688184513632
+    second: MG2 - Snake_120
+  - first:
+      213: -366036284738925813
+    second: MG2 - Snake_121
+  - first:
+      213: -171730321540883402
+    second: MG2 - Snake_122
+  - first:
+      213: -6572049868167895194
+    second: MG2 - Snake_123
+  - first:
+      213: -9053753994489203695
+    second: MG2 - Snake_124
+  - first:
+      213: -4310546415557094219
+    second: MG2 - Snake_125
+  - first:
+      213: 4289237315831503678
+    second: MG2 - Snake_126
+  - first:
+      213: 2052667453001524551
+    second: MG2 - Snake_127
+  - first:
+      213: -6075133558453989333
+    second: MG2 - Snake_128
+  - first:
+      213: 4469942027278171906
+    second: MG2 - Snake_129
+  - first:
+      213: 8950265849344577189
+    second: MG2 - Snake_130
+  - first:
+      213: 2993344219177378028
+    second: MG2 - Snake_131
+  - first:
+      213: 3751970234333984878
+    second: MG2 - Snake_132
+  - first:
+      213: 2935920705567618475
+    second: MG2 - Snake_133
+  - first:
+      213: 6102142704938462301
+    second: MG2 - Snake_134
+  - first:
+      213: -6666051112154942956
+    second: MG2 - Snake_135
+  - first:
+      213: 4892903266644546305
+    second: MG2 - Snake_136
+  - first:
+      213: -5920343343056787561
+    second: MG2 - Snake_137
+  - first:
+      213: -6239166021673402555
+    second: MG2 - Snake_138
+  - first:
+      213: -488945523106993323
+    second: MG2 - Snake_139
+  - first:
+      213: 2206422013082310799
+    second: MG2 - Snake_140
+  - first:
+      213: 547852254095516706
+    second: MG2 - Snake_141
+  - first:
+      213: 5498530940272784241
+    second: MG2 - Snake_142
+  - first:
+      213: -7352230317229638610
+    second: MG2 - Snake_143
+  - first:
+      213: 5655265712863356659
+    second: MG2 - Snake_144
+  - first:
+      213: 3312789187956739383
+    second: MG2 - Snake_145
+  - first:
+      213: 1828242554874160970
+    second: MG2 - Snake_146
+  - first:
+      213: 1067655785364208250
+    second: MG2 - Snake_147
+  - first:
+      213: 5821875381704520708
+    second: MG2 - Snake_148
+  - first:
+      213: 9037058892392948511
+    second: MG2 - Snake_149
+  - first:
+      213: 4307732041437186085
+    second: MG2 - Snake_150
+  - first:
+      213: -8192670876585664527
+    second: MG2 - Snake_151
+  - first:
+      213: 6620183800394313890
+    second: MG2 - Snake_152
+  - first:
+      213: -7902349913499940006
+    second: MG2 - Snake_153
+  - first:
+      213: 2230463241479093040
+    second: MG2 - Snake_154
+  - first:
+      213: -6771802007633752392
+    second: MG2 - Snake_155
+  - first:
+      213: 7593369182139659681
+    second: MG2 - Snake_156
+  - first:
+      213: 2922097666554215577
+    second: MG2 - Snake_157
+  - first:
+      213: -7687539764065152039
+    second: MG2 - Snake_158
+  - first:
+      213: 3012674216490828982
+    second: MG2 - Snake_159
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MG2 - Snake_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 231
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcbd6d9b535926e0800000000000000
+      internalID: -1861865317992645385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 232
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df4c0c0b7546c120800000000000000
+      internalID: 2433709043425759190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 231
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86169c649779cdd0800000000000000
+      internalID: -2465307841647995250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 231
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b774477e31ba541f0800000000000000
+      internalID: -1061254035199998085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 231
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952c54aa931e9b3e0800000000000000
+      internalID: -2037349718622354855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 232
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aec4b360b64cbb0800000000000000
+      internalID: -4916687218672866781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 231
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa563230e193ae60800000000000000
+      internalID: 7972376157477034666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 231
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8234bd13acb5dd0800000000000000
+      internalID: -2496179252965988126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 232
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f400238ab437940800000000000000
+      internalID: 5292657172855934833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 232
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005a79109ad3a4f90800000000000000
+      internalID: -6968689677316938496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 231
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4521cd48e5c88b470800000000000000
+      internalID: 8410626641698230868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 231
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbe673c698826d90800000000000000
+      internalID: -7105967080931398671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 232
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06aa4e5d08b088a0800000000000000
+      internalID: -6304837110762658294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_13
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 232
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5738e27a0745e00800000000000000
+      internalID: 1032574077916902888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 231
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f421d995d22fd50800000000000000
+      internalID: 6769523052801839006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_15
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 231
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7bc834b3fef6980800000000000000
+      internalID: -8543346930283137047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 244
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a7865b1b644a560800000000000000
+      internalID: 7324056623077948029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_17
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 243
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd63c32ba81bd0d0800000000000000
+      internalID: -3397094370602422861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_18
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 242
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3422d685f6a69750800000000000000
+      internalID: 6311415501265445946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_19
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 243
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86adac8dc4b9ca970800000000000000
+      internalID: 8767553328940505704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_20
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 244
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6385623f546791560800000000000000
+      internalID: 7284983915052685366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 243
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd54f80931aa8a80800000000000000
+      internalID: -8463775283353985614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_22
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 242
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41727af7eedd5ce30800000000000000
+      internalID: 4523265417177147156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_23
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 242
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fa764a9b9557980800000000000000
+      internalID: -8541822464376197355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 196
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5e125478a995bc0800000000000000
+      internalID: -3793831305311820320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 196
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7bcd569dd0033a0800000000000000
+      internalID: -6687830219277158456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 196
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9479ccd9ecb148e70800000000000000
+      internalID: 9116442119929370441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_27
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 196
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbb50fad7ac8a350800000000000000
+      internalID: 6028290742391520192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 196
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48a6daa58fb1e840800000000000000
+      internalID: 5251689221308459083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 196
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17eb91c9c0ef01610800000000000000
+      internalID: 1590049998573780593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_30
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 197
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560d0e78fd69bc9a0800000000000000
+      internalID: -6211705374225936283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_31
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 197
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062927a47f8204180800000000000000
+      internalID: -9133255001736310176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_32
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 196
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3412df49ba1f42a0800000000000000
+      internalID: -6751147933194644419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_33
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 196
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f25be26048c3c390800000000000000
+      internalID: -7799169950812515591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_34
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 196
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ec0d89e2008d5c0800000000000000
+      internalID: -4190599253135929811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_35
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 196
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0b36bde2f967df0800000000000000
+      internalID: -182783711263870781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_36
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 196
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20acff7f973d01ea0800000000000000
+      internalID: -5903986590677480958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_37
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 196
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c343467c659cfdfd0800000000000000
+      internalID: -2314910308895542212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_38
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 197
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84946a0a32433aae0800000000000000
+      internalID: -1539329320006825656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_39
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 197
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef9efdb0a925de00800000000000000
+      internalID: 1068806256929447911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_40
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 220
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3595625d9bd0aa070800000000000000
+      internalID: 8118316370084911443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_41
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 220
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7a3314169b05270800000000000000
+      internalID: 8237287545817507750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_42
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 220
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76f69330df710450800000000000000
+      internalID: 6053259906358113916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_43
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 220
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddabf2ce436b4910800000000000000
+      internalID: 1822659664131370455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_44
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 201
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a283f60a39138e0800000000000000
+      internalID: -1715427665781446019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_45
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 201
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b591b201dcb8a7560800000000000000
+      internalID: 7312310657845238107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_46
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 201
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c881e99e7bc49e80800000000000000
+      internalID: -8172683679162595130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_47
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 201
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b307e01c6df997500800000000000000
+      internalID: 394522187082395707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 169
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508497a990296ff50800000000000000
+      internalID: 6914874847817975813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_49
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 169
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d681becb541006d0800000000000000
+      internalID: -3026396565050652970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_50
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 169
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f1e11aa95fe4180800000000000000
+      internalID: -9129089350156542133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_51
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 169
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3623b06c4ec5aff90800000000000000
+      internalID: -6919115739856424349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_52
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 169
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969249a20e61cf400800000000000000
+      internalID: 359187222325635433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_53
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 169
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84322842220999270800000000000000
+      internalID: 8257789868076311368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_54
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 169
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4197822e481a4b790800000000000000
+      internalID: -7515204286072456940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_55
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 169
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2150b28fce117cf0800000000000000
+      internalID: -256389827183750870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_56
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 169
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3718c60da1f4650800000000000000
+      internalID: 6219219092897887177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_57
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 169
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6cbb4920274a3f0800000000000000
+      internalID: -890461470901680398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 169
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76750424be6dd5a0800000000000000
+      internalID: -6494913367620880774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_59
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 169
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3298e6658d162c90800000000000000
+      internalID: -7195030895883414978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_60
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 169
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cef6d07469550000800000000000000
+      internalID: 1505662808293060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_61
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 169
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a36cc4ccf5ab8720800000000000000
+      internalID: 2849553694294041513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_62
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 169
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ff233362313bae0800000000000000
+      internalID: -1534861993214541937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_63
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 169
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9a8712f6e97f5c0800000000000000
+      internalID: -4181699528850101849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_64
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 166
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e831b5b6799c3660800000000000000
+      internalID: 7366931825604770023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_65
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 166
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7aeae8132753180800000000000000
+      internalID: -9136270711878408194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_66
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 166
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957327521a69c4bd0800000000000000
+      internalID: -2644573262311180455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_67
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 168
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8435aedf98c9200800000000000000
+      internalID: 188177008093776052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_68
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 175
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b4d1fc5507bbe50800000000000000
+      internalID: 6826173174059453283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_69
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 174
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d4047574b236da0800000000000000
+      internalID: -5952866697047159484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_70
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 166
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbb59545b7656c50800000000000000
+      internalID: 6657841652391328700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_71
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 142
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4baedec4d2cd1a0800000000000000
+      internalID: -6783497130294463254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_72
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 142
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79de1271d17764a0800000000000000
+      internalID: -6600181584511444612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_73
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 142
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d9caeaf9089af30800000000000000
+      internalID: 4587339118772264211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_74
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 142
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4696ecf4510045e10800000000000000
+      internalID: 2185371810714773860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_75
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 142
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1b5773e1c136ab0800000000000000
+      internalID: -5016134643855543883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_76
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 142
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbc467aae5c19930800000000000000
+      internalID: 4148314343406357502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_77
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 142
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f101f284c5ef46e0800000000000000
+      internalID: -1851008289652801039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_78
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 142
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d240946dbbced1e0800000000000000
+      internalID: -2171073956049567018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_79
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 142
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684974e6466124a40800000000000000
+      internalID: 5350863927872296070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_80
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 142
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b9e791dfd6ac940800000000000000
+      internalID: 5317183243886173004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_81
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07feb22e5014d72c0800000000000000
+      internalID: -4432314964737527952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_82
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d6f2a86b97ba590800000000000000
+      internalID: -7661896516131394159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_83
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 142
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755da13ecdef9aa00800000000000000
+      internalID: 768425436099827031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_84
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 142
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97f921ba601cffd0800000000000000
+      internalID: -2306950858695641185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_85
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240d8825b342fdca0800000000000000
+      internalID: -5990029142173102014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_86
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d193ea4602ceb00800000000000000
+      internalID: 859097245712719213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_87
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 139
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321d25f54693c52f0800000000000000
+      internalID: -982847515414834909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_88
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 139
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a407c7c29efe61a50800000000000000
+      internalID: 6491639697653919818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_89
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 139
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6108329dc92d70710800000000000000
+      internalID: 1659526558809030678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_90
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 139
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d8c123e1cbf9d30800000000000000
+      internalID: 4440474595486371175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_91
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 115
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8ee4217c2f7ef80800000000000000
+      internalID: -8077220469846120247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_92
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 115
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6def140c3f6f4d0800000000000000
+      internalID: -3101023286331517227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_93
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 115
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c89f535978752c0800000000000000
+      internalID: -4442933432452281246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_94
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 115
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428a8ca35054771f0800000000000000
+      internalID: -1047292499576969180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_95
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 115
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6206351abfe1eb4d0800000000000000
+      internalID: -3117019826001584090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_96
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 115
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f946d28116353b0800000000000000
+      internalID: -5524965561384788192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_97
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 115
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a7bc558d9b3a880800000000000000
+      internalID: -8600826524544042462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_98
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 115
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca359f8f7c7bb7f0800000000000000
+      internalID: -595745638384846133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_99
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 115
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e6377d4ea163120800000000000000
+      internalID: 2393129822163529329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_100
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 115
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880744474ffa833a0800000000000000
+      internalID: -6685400182373977976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_101
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 115
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efd339170a464170800000000000000
+      internalID: 8162292769003659240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_102
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 115
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f841aa9af55fc2120800000000000000
+      internalID: 2390555293444084879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_103
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 115
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be860df8789be3c0800000000000000
+      internalID: -4329198971378037065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_104
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 115
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de1c32adda6b1bf0800000000000000
+      internalID: -352570645676286254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_105
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 115
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfea74dea2288fe40800000000000000
+      internalID: 5690441250063757051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_106
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 115
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465bccd9474a879c0800000000000000
+      internalID: -3929209854110157468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_107
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 116
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e305e1b659eb7b40800000000000000
+      internalID: 5439197533541041125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_108
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 112
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c15e568b16e799b0800000000000000
+      internalID: -5073333449316740669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_109
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27dbd5ace6011370800000000000000
+      internalID: 8291416002430490414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_110
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cb8d3a7f99bba50800000000000000
+      internalID: 6537988572943268923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_111
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 106
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d666f2e1956be3f30800000000000000
+      internalID: 4557280366820288109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_112
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 88
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92dcd461c1aba630800000000000000
+      internalID: 3939420151058584222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_113
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 88
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb8c7ef024e05790800000000000000
+      internalID: -7543278545485919251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_114
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 88
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f538f26d4f232060800000000000000
+      internalID: 6927432661245375984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_115
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 88
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6fab3a156eab7e0800000000000000
+      internalID: -1748832266966337841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_116
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 88
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db03fe7795fd52e10800000000000000
+      internalID: 2172387970633380029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_117
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 88
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf094748e81f07b10800000000000000
+      internalID: 1977345830825529595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_118
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 88
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351cc9295007868e0800000000000000
+      internalID: -1699985690095468205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_119
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 88
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0c1ce3549680870800000000000000
+      internalID: 8649278830491582692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_120
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 88
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abaf0f8226b0b5d0800000000000000
+      internalID: -3048736688184513632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_121
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 88
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b8b3930f39beaf0800000000000000
+      internalID: -366036284738925813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_122
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 88
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c5463be24ed9df0800000000000000
+      internalID: -171730321540883402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_123
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 88
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66723b117736bc4a0800000000000000
+      internalID: -6572049868167895194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_124
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 88
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11472baf5ba9a5280800000000000000
+      internalID: -9053753994489203695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_125
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 88
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4d2e09fdcdd24c0800000000000000
+      internalID: -4310546415557094219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_126
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 88
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b9c770d9e668b30800000000000000
+      internalID: 4289237315831503678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_127
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 88
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745692a4c2a8c7c10800000000000000
+      internalID: 2052667453001524551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_128
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 39
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b209b4d473ac0bba0800000000000000
+      internalID: -6075133558453989333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_129
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 40
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f318e479c680e30800000000000000
+      internalID: 4469942027278171906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_130
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 40
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae4e739e5bb53c70800000000000000
+      internalID: 8950265849344577189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_131
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 40
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0698a35be7a8920800000000000000
+      internalID: 2993344219177378028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_132
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 39
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68f051ac0da11430800000000000000
+      internalID: 3751970234333984878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_133
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 40
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba57218935c7eb820800000000000000
+      internalID: 2935920705567618475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_134
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 40
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c2998a57a2fa450800000000000000
+      internalID: 6102142704938462301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 40
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412386de4dd6d73a0800000000000000
+      internalID: -6666051112154942956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_136
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 53
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10352b8e89517e340800000000000000
+      internalID: 4892903266644546305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_137
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 53
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79760c8c817b6dda0800000000000000
+      internalID: -5920343343056787561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_138
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 39
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f387f4f870a69a0800000000000000
+      internalID: -6239166021673402555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_139
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 37
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ba0b423aae639f0800000000000000
+      internalID: -488945523106993323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_140
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 39
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f889f5a7129ce9e10800000000000000
+      internalID: 2206422013082310799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_141
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 37
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224a2c2f8bc5a9700800000000000000
+      internalID: 547852254095516706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_142
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 37
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1733479f1c4be4c40800000000000000
+      internalID: 5498530940272784241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_143
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 38
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c7ba2fa71a7f990800000000000000
+      internalID: -7352230317229638610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_144
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 28
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6aaa5f33a8b7e40800000000000000
+      internalID: 5655265712863356659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_145
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 60
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d8aebe63469fd20800000000000000
+      internalID: 3312789187956739383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_146
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47e68ecae83f5910800000000000000
+      internalID: 1828242554874160970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_147
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 6
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a3605b74311de00800000000000000
+      internalID: 1067655785364208250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_148
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 8
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404f61560d47bc050800000000000000
+      internalID: 5821875381704520708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_149
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 8
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13ed57ae251a6d70800000000000000
+      internalID: 9037058892392948511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_150
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 6
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5288e65e77328cb30800000000000000
+      internalID: 4307732041437186085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_151
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff5c6f8e39cd4e80800000000000000
+      internalID: -8192670876585664527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_152
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 9
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a07c4a571e9fdb50800000000000000
+      internalID: 6620183800394313890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_153
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 9
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b4ff24f96355290800000000000000
+      internalID: -7902349913499940006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_154
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 3
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b7de8208234fe10800000000000000
+      internalID: 2230463241479093040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_155
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be86bdd3f9b502a0800000000000000
+      internalID: -6771802007633752392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_156
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a535dd2a01116960800000000000000
+      internalID: 7593369182139659681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_157
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c36f588506d8820800000000000000
+      internalID: 2922097666554215577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_158
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3d43e905f505590800000000000000
+      internalID: -7687539764065152039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MG2 - Snake_159
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b40ae1fc3b2fc920800000000000000
+      internalID: 3012674216490828982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7231262250f49464d9bb5a3298edfece
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MG2 - Snake_0: -1861865317992645385
+      MG2 - Snake_1: 2433709043425759190
+      MG2 - Snake_10: 8410626641698230868
+      MG2 - Snake_100: -6685400182373977976
+      MG2 - Snake_101: 8162292769003659240
+      MG2 - Snake_102: 2390555293444084879
+      MG2 - Snake_103: -4329198971378037065
+      MG2 - Snake_104: -352570645676286254
+      MG2 - Snake_105: 5690441250063757051
+      MG2 - Snake_106: -3929209854110157468
+      MG2 - Snake_107: 5439197533541041125
+      MG2 - Snake_108: -5073333449316740669
+      MG2 - Snake_109: 8291416002430490414
+      MG2 - Snake_11: -7105967080931398671
+      MG2 - Snake_110: 6537988572943268923
+      MG2 - Snake_111: 4557280366820288109
+      MG2 - Snake_112: 3939420151058584222
+      MG2 - Snake_113: -7543278545485919251
+      MG2 - Snake_114: 6927432661245375984
+      MG2 - Snake_115: -1748832266966337841
+      MG2 - Snake_116: 2172387970633380029
+      MG2 - Snake_117: 1977345830825529595
+      MG2 - Snake_118: -1699985690095468205
+      MG2 - Snake_119: 8649278830491582692
+      MG2 - Snake_12: -6304837110762658294
+      MG2 - Snake_120: -3048736688184513632
+      MG2 - Snake_121: -366036284738925813
+      MG2 - Snake_122: -171730321540883402
+      MG2 - Snake_123: -6572049868167895194
+      MG2 - Snake_124: -9053753994489203695
+      MG2 - Snake_125: -4310546415557094219
+      MG2 - Snake_126: 4289237315831503678
+      MG2 - Snake_127: 2052667453001524551
+      MG2 - Snake_128: -6075133558453989333
+      MG2 - Snake_129: 4469942027278171906
+      MG2 - Snake_13: 1032574077916902888
+      MG2 - Snake_130: 8950265849344577189
+      MG2 - Snake_131: 2993344219177378028
+      MG2 - Snake_132: 3751970234333984878
+      MG2 - Snake_133: 2935920705567618475
+      MG2 - Snake_134: 6102142704938462301
+      MG2 - Snake_135: -6666051112154942956
+      MG2 - Snake_136: 4892903266644546305
+      MG2 - Snake_137: -5920343343056787561
+      MG2 - Snake_138: -6239166021673402555
+      MG2 - Snake_139: -488945523106993323
+      MG2 - Snake_14: 6769523052801839006
+      MG2 - Snake_140: 2206422013082310799
+      MG2 - Snake_141: 547852254095516706
+      MG2 - Snake_142: 5498530940272784241
+      MG2 - Snake_143: -7352230317229638610
+      MG2 - Snake_144: 5655265712863356659
+      MG2 - Snake_145: 3312789187956739383
+      MG2 - Snake_146: 1828242554874160970
+      MG2 - Snake_147: 1067655785364208250
+      MG2 - Snake_148: 5821875381704520708
+      MG2 - Snake_149: 9037058892392948511
+      MG2 - Snake_15: -8543346930283137047
+      MG2 - Snake_150: 4307732041437186085
+      MG2 - Snake_151: -8192670876585664527
+      MG2 - Snake_152: 6620183800394313890
+      MG2 - Snake_153: -7902349913499940006
+      MG2 - Snake_154: 2230463241479093040
+      MG2 - Snake_155: -6771802007633752392
+      MG2 - Snake_156: 7593369182139659681
+      MG2 - Snake_157: 2922097666554215577
+      MG2 - Snake_158: -7687539764065152039
+      MG2 - Snake_159: 3012674216490828982
+      MG2 - Snake_16: 7324056623077948029
+      MG2 - Snake_17: -3397094370602422861
+      MG2 - Snake_18: 6311415501265445946
+      MG2 - Snake_19: 8767553328940505704
+      MG2 - Snake_2: -2465307841647995250
+      MG2 - Snake_20: 7284983915052685366
+      MG2 - Snake_21: -8463775283353985614
+      MG2 - Snake_22: 4523265417177147156
+      MG2 - Snake_23: -8541822464376197355
+      MG2 - Snake_24: -3793831305311820320
+      MG2 - Snake_25: -6687830219277158456
+      MG2 - Snake_26: 9116442119929370441
+      MG2 - Snake_27: 6028290742391520192
+      MG2 - Snake_28: 5251689221308459083
+      MG2 - Snake_29: 1590049998573780593
+      MG2 - Snake_3: -1061254035199998085
+      MG2 - Snake_30: -6211705374225936283
+      MG2 - Snake_31: -9133255001736310176
+      MG2 - Snake_32: -6751147933194644419
+      MG2 - Snake_33: -7799169950812515591
+      MG2 - Snake_34: -4190599253135929811
+      MG2 - Snake_35: -182783711263870781
+      MG2 - Snake_36: -5903986590677480958
+      MG2 - Snake_37: -2314910308895542212
+      MG2 - Snake_38: -1539329320006825656
+      MG2 - Snake_39: 1068806256929447911
+      MG2 - Snake_4: -2037349718622354855
+      MG2 - Snake_40: 8118316370084911443
+      MG2 - Snake_41: 8237287545817507750
+      MG2 - Snake_42: 6053259906358113916
+      MG2 - Snake_43: 1822659664131370455
+      MG2 - Snake_44: -1715427665781446019
+      MG2 - Snake_45: 7312310657845238107
+      MG2 - Snake_46: -8172683679162595130
+      MG2 - Snake_47: 394522187082395707
+      MG2 - Snake_48: 6914874847817975813
+      MG2 - Snake_49: -3026396565050652970
+      MG2 - Snake_5: -4916687218672866781
+      MG2 - Snake_50: -9129089350156542133
+      MG2 - Snake_51: -6919115739856424349
+      MG2 - Snake_52: 359187222325635433
+      MG2 - Snake_53: 8257789868076311368
+      MG2 - Snake_54: -7515204286072456940
+      MG2 - Snake_55: -256389827183750870
+      MG2 - Snake_56: 6219219092897887177
+      MG2 - Snake_57: -890461470901680398
+      MG2 - Snake_58: -6494913367620880774
+      MG2 - Snake_59: -7195030895883414978
+      MG2 - Snake_6: 7972376157477034666
+      MG2 - Snake_60: 1505662808293060
+      MG2 - Snake_61: 2849553694294041513
+      MG2 - Snake_62: -1534861993214541937
+      MG2 - Snake_63: -4181699528850101849
+      MG2 - Snake_64: 7366931825604770023
+      MG2 - Snake_65: -9136270711878408194
+      MG2 - Snake_66: -2644573262311180455
+      MG2 - Snake_67: 188177008093776052
+      MG2 - Snake_68: 6826173174059453283
+      MG2 - Snake_69: -5952866697047159484
+      MG2 - Snake_7: -2496179252965988126
+      MG2 - Snake_70: 6657841652391328700
+      MG2 - Snake_71: -6783497130294463254
+      MG2 - Snake_72: -6600181584511444612
+      MG2 - Snake_73: 4587339118772264211
+      MG2 - Snake_74: 2185371810714773860
+      MG2 - Snake_75: -5016134643855543883
+      MG2 - Snake_76: 4148314343406357502
+      MG2 - Snake_77: -1851008289652801039
+      MG2 - Snake_78: -2171073956049567018
+      MG2 - Snake_79: 5350863927872296070
+      MG2 - Snake_8: 5292657172855934833
+      MG2 - Snake_80: 5317183243886173004
+      MG2 - Snake_81: -4432314964737527952
+      MG2 - Snake_82: -7661896516131394159
+      MG2 - Snake_83: 768425436099827031
+      MG2 - Snake_84: -2306950858695641185
+      MG2 - Snake_85: -5990029142173102014
+      MG2 - Snake_86: 859097245712719213
+      MG2 - Snake_87: -982847515414834909
+      MG2 - Snake_88: 6491639697653919818
+      MG2 - Snake_89: 1659526558809030678
+      MG2 - Snake_9: -6968689677316938496
+      MG2 - Snake_90: 4440474595486371175
+      MG2 - Snake_91: -8077220469846120247
+      MG2 - Snake_92: -3101023286331517227
+      MG2 - Snake_93: -4442933432452281246
+      MG2 - Snake_94: -1047292499576969180
+      MG2 - Snake_95: -3117019826001584090
+      MG2 - Snake_96: -5524965561384788192
+      MG2 - Snake_97: -8600826524544042462
+      MG2 - Snake_98: -595745638384846133
+      MG2 - Snake_99: 2393129822163529329
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

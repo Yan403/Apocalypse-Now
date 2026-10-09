@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d153dc2373f0e7f4f9f502e12092e57d, type: 3}
+  m_Name: Ration
+  m_EditorClassIdentifier: Assembly-CSharp::UsableItemSO
+  itemName: Ration
+  itemDescription: 
+  icon: {fileID: 1841333284327394432, guid: cc97c03074cd7664c811b53d45a1b09e, type: 3}
+  isGun: 0
+  effects:
+  - {fileID: 11400000, guid: efb695774524adb4ab3819d6cc162aad, type: 2}
